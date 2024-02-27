@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Munka\\Programozas_II\\lab-01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{953D1A11-CB55-4C63-B22B-6D281E3C03E4}|lab-01.vcxproj|C:\\Munka\\Programozas_II\\lab-01\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{953D1A11-CB55-4C63-B22B-6D281E3C03E4}|lab-01.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A57A9F-1DFC-46A1-B82F-5E03EABD7512}|Solution Items{F7A57A9F-1DFC-46A1-B82F-5E03EABD7512}|C:\\Munka\\Programozas_II\\lab-01\\nevek.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F7A57A9F-1DFC-46A1-B82F-5E03EABD7512}|Solution Items{F7A57A9F-1DFC-46A1-B82F-5E03EABD7512}|solutionrelative:nevek.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nevek.txt",
+              "DocumentMoniker": "C:\\Munka\\Programozas_II\\lab-01\\nevek.txt",
+              "RelativeDocumentMoniker": "nevek.txt",
+              "ToolTip": "C:\\Munka\\Programozas_II\\lab-01\\nevek.txt",
+              "RelativeToolTip": "nevek.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-02-27T09:45:48.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Munka\\Programozas_II\\lab-01\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Munka\\Programozas_II\\lab-01\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-27T09:37:50.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
